@@ -11,7 +11,7 @@ function App() {
       <main>
         <h1>Featured Products</h1>
         {
-          data.products.map(product => (<div>
+          data.products.map((product) => (<div key={product.slug}>
             <img src={product.image} alt={product.name} />
             <p>
               {product.name}

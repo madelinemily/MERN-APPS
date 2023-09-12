@@ -14,9 +14,9 @@ const data = {
         },
         {
             name: 'Nike Slim',
-            slug: "nike-slim",
+            slug: "nike-slay",
             category: "Shirts",
-            image: "/images/p1.jpg",
+            image: "/images/p2.jpg",
             price: 120,
             countInStock: 10,
             brand: "Nike",
@@ -26,9 +26,9 @@ const data = {
         },
         {
             name: 'Nike Slim',
-            slug: "nike-slim",
+            slug: "nike-slis",
             category: "Shirts",
-            image: "/images/p1.jpg",
+            image: "/images/p3.jpg",
             price: 120,
             countInStock: 10,
             brand: "Nike",
